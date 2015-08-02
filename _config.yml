@@ -2,7 +2,7 @@ name: Christophior
 description: just blogging about stuff
 meta_description: "Christophior's blog"
 
-aboutPage: true
+aboutPage: false
 
 markdown: redcarpet
 highlighter: pygments
