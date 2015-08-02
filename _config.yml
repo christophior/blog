@@ -1,6 +1,6 @@
-name: christophior
+name: Christophior
 description: just blogging about stuff
-meta_description: "christophior's blog"
+meta_description: "Christophior's blog"
 
 aboutPage: true
 
@@ -11,7 +11,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://blog.christophior.com'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
+disqus: true
 disqus_shortname: 'christophior'
 
 # Details for the RSS feed generator
@@ -19,7 +19,7 @@ url:            'http://blog.christophior.com'
 author:         'christophior'
 authorTwitter:  'christophior'
 
-permalink:       /:year/:title/
+permalink:       /:title/
 
 defaults:
     -
