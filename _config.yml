@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://blog.christophior.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-65917534-1'
 disqus: true
 disqus_shortname: 'christophior'
 
