@@ -55,6 +55,8 @@ That's all folks, let me know how this first blog post went. What should I impro
 
 Have a good week folks!
 
+## edit: Sorry guys I forgot today was Tuesday, my head's somewhere else. Have a good Tuesday yo!
+
   
 	
 	
