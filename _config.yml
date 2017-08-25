@@ -4,7 +4,7 @@ meta_description: "Christophior's blog"
 
 aboutPage: false
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
